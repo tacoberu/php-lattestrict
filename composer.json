@@ -4,12 +4,12 @@
     "description": "Extend of [Latte](https://latte.nette.org): amazing template engine for PHP. Designed for user templates. Removed support for php and similarly dangerous constructions.",
     "keywords": ["template", "security", "engine", "html", "twig", "context-sensitive", "escaping", "user"],
     "require": {
-        "nette/utils": "^2.4"
+        "nette/utils": "^2.3"
     },
     "require-dev": {
-        "latte/latte": "^2.4",
-        "phpunit/phpunit": "^5.7",
-        "tracy/tracy": "^2.4"
+        "latte/latte": "^2.3",
+        "phpunit/phpunit": "^4.0",
+        "tracy/tracy": "^2.3"
     },
     "license": "MIT",
     "authors": [

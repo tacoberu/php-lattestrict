@@ -1,6 +1,8 @@
 LatteStrict
 ===========
 
+[![Build Status](https://travis-ci.org/tacoberu/php-lattestrict.svg?branch=master)](https://travis-ci.org/tacoberu/php-lattestrict)
+
 Extend of [Latte](https://latte.nette.org): amazing template engine for PHP. Designed for user templates. Removed support for php and similarly dangerous constructions.
 
 
